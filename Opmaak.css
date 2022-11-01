@@ -10,7 +10,7 @@ body{
 	font-weight: bold;
 	letter-spacing: 10px;
 	margin-top: 150px;
-	color: darkgrey;
+	color: black;
 	resize: vertical;
 }
 .box h1{
@@ -22,7 +22,7 @@ img{
 
 .foto{
 	border-radius: 5px;
-	padding:5px darkgrey;
+	padding:5px black;
 }
 * {
   box-sizing: border-box;
@@ -43,7 +43,7 @@ img{
 #menuToggle a
 {
   text-decoration: none;
-  color: darkgrey;
+  color: black;
   font-weight: 600;
   transition: color 0.3s ease;
 }
@@ -154,7 +154,7 @@ img{
 }
 #navigatie h3{
 	display: inline;
-	color: darkgrey;
+	color: black;
 }
 #navigatie a{
 	
